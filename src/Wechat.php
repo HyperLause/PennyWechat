@@ -1,5 +1,5 @@
 <?php
-namespace Hitomi;
+namespace penny;
 
 class Wechat{
 
