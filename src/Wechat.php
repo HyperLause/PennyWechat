@@ -20,7 +20,6 @@ class Wechat{
         }
     }
 
-
     // 单例模式 实例化
     public static function instance($options = []){
         if (is_null(self::$instance)) {
@@ -31,10 +30,10 @@ class Wechat{
 
 
     public function foo(){
-        echo 'test : ' . $this->appId;
+        echo 'Test : ' . $this->appId;
     }
 
     public function getAccessToken(){
-        echo 'accessToken';
+        echo 'accessToken 11';
     }
 }
