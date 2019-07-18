@@ -9,6 +9,7 @@
             "email": "34504020@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
