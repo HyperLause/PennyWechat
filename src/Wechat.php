@@ -11,6 +11,6 @@ class Wechat{
 
 
     public function foo(){
-        echo 'foo demo2 demo3 decd1 222';
+        echo 'foo demo2 demo3 decd1 222 3333333';
     }
 }
